@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "fun-bot",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "The funniest bot evar.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+    "url": "https://github.com/AlyssaBk/easy-peasy-bot"
   },
   "keywords": [
     "slack",
     "bot"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "author": "Alyssa Bk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
+    "url": "https://github.com/AlyssaBk/easy-peasy-bot/issues"
   },
-  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
+  "homepage": "https://github.com/AlyssaBk/easy-peasy-bot-app#readme",
   "engines": {
     "node": "5.1.1"
   },
